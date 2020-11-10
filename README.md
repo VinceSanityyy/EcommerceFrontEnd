@@ -1,6 +1,6 @@
-# nuxtjs-adminlte-101
+# NuxtJS
 
-> Nuxt.js + AdminLTE
+> Nuxt.js 
 
 ## Build Setup
 
